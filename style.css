@@ -10,3 +10,7 @@ h1{
 body{
   background: #CCCCCC; 
 }
+
+em strong {
+  color: red;
+}

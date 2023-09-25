@@ -1,4 +1,5 @@
-body{
+p{
+  text-align: center;
   background: #CCCCCC;  
 }
 
@@ -36,3 +37,12 @@ missao {
     widht: 20%
     margin-right: 15%;
   }
+
+  h2 {
+    text-align: center;
+  }
+
+    .beneficios {
+background: #FFFFFF;
+padding: 20px;
+    }

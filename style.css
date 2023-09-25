@@ -25,3 +25,14 @@ missao {
 .itens {
   font-style: italic;
 }
+
+.imagembeneficios {
+  width: 50%;
+}
+
+  ul{
+    display: inline-block;
+    vertical-align: top;
+    widht: 20%
+    margin-right: 15%;
+  }
